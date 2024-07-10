@@ -161,8 +161,9 @@ header button{
     justify-content: center;
     height: 775px;
     width: 100%;
+    padding-right: 100px;
+    padding-left: 100px;
  }
  .my-inspiration iframe{
     margin: 30px auto 150px auto;
  }
- 
